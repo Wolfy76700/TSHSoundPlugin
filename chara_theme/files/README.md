@@ -1,0 +1,1 @@
+To add a character theme here, drop an MP3 file named as follows: `{game_codename}/sound_${character_codename}_0.mp3` (Without the brackets)
