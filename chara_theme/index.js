@@ -31,7 +31,7 @@
 
 
       let elements = `
-		<audio controls autoplay>
+		<audio controls autoplay loop>
 		  <source src="./files/${game}/sound_${characode}_0.mp3" type="audio/mpeg">
 		</audio> 
 		`;

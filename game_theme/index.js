@@ -22,7 +22,7 @@
 
 
       let elements = `
-		<audio controls autoplay>
+		<audio controls autoplay loop>
 		  <source src="./files/sound_${game}.mp3" type="audio/mpeg">
 		</audio> 
 		`;
